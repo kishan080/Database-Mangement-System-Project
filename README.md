@@ -1,3 +1,3 @@
 # Train-Reservation Sytem-Using
 
-Using Linked List as Data structure i made a Train-Reservation System
+Synopsis: Train-Reservation Management System -using LinkedList of structure as database in C language to keep the track of Reservation activities by Passenger. Implementing function like  Addition, searching, update, Deletion of Passenger data.
